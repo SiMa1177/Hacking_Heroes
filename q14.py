@@ -1,4 +1,4 @@
-print("Sakalya Mitra:20MIM10056")
+print("Program to find max_element in list")
 print("\n")
 
 my_list = [1,23,45,6,7,89,98,0]
