@@ -8,7 +8,9 @@ To set up the project locally, ensure you have Python installed on your machine.
 
 1. Clone the repository:
    ```bash
+   
    git clone https://github.com/yourusername/Hacking_Heroes.git
+
    cd Hacking_Heroes
    ```
 
@@ -39,11 +41,11 @@ To run the individual scripts, use the following commands in your terminal:
 
 # Contributing:
 We welcome contributions to enhance the project! To contribute:
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature/YourFeature).
-3.Make your changes and commit them (git commit -m 'Add some feature').
-4.Push to the branch (git push origin feature/YourFeature).
-5.Open a pull request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a pull request.
 
 # Testing:
 To run tests for the project, execute:
