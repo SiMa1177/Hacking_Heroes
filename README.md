@@ -31,10 +31,10 @@ To run the individual scripts, use the following commands in your terminal:
 File Descriptions:
 1. Print_Coloured_Text.py: A script to print colored text in the terminal using the colorama library, demonstrating the use of foreground and background colors.
 2. q13.py: A script showcasing a class structure and methods to handle basic operations for a person (or similar entity), allowing for initialization, greeting, and age increment.
-3.q14.py: An extension of the functionalities in q13.py, adding new elements and improving upon the existing class structure.
-4.q15.py: Further enhancement of the previous classes, introducing more complex features and methods for better usability.
-5.tempCodeRunnerFile.py: A simplified class definition for a person, demonstrating object-oriented programming with methods for greeting and birthday simulation.
-6.test.py: A comprehensive set of unit tests for the classes defined in tempCodeRunnerFile.py and other scripts, ensuring functionality and robustness of the code.
+3. q14.py: An extension of the functionalities in q13.py, adding new elements and improving upon the existing class structure.
+4. q15.py: Further enhancement of the previous classes, introducing more complex features and methods for better usability.
+5. tempCodeRunnerFile.py: A simplified class definition for a person, demonstrating object-oriented programming with methods for greeting and birthday simulation.
+6. test.py: A comprehensive set of unit tests for the classes defined in tempCodeRunnerFile.py and other scripts, ensuring functionality and robustness of the code.
 
 Contributing:
 We welcome contributions to enhance the project! To contribute:
